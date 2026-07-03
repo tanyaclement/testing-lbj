@@ -1,0 +1,55 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "testing the first clip"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "4283342c-71dc-4d9a-8240-d4c7b3b5b039",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "start": 10,
+      "end": 25,
+      "file": "578a7e5f-8ffe-4a23-bdb0-8b3628493bfd",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "testing a clips page",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "testing-a-clips-page",
+  "created_at": "2026-07-03T17:50:45.888Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2026-07-03T17:50:45.888Z",
+  "updated_by": "tanyaclement"
+}
