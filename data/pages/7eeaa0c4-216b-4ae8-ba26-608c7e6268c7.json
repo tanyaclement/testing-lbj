@@ -17,7 +17,15 @@
       ]
     },
     {
-      "uuid": "4283342c-71dc-4d9a-8240-d4c7b3b5b039",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "580d24c1-e017-4376-a2dd-2fd2b8d6f0ca",
       "includes": [
         "media",
         "annotations",
@@ -25,7 +33,7 @@
       ],
       "start": 10,
       "end": 25,
-      "file": "578a7e5f-8ffe-4a23-bdb0-8b3628493bfd",
+      "file": "3d49e010-b1f9-4139-b006-ef6005a020ab",
       "type": "event",
       "children": [
         {
@@ -50,6 +58,6 @@
   "slug": "testing-a-clips-page",
   "created_at": "2026-07-03T17:50:45.888Z",
   "created_by": "tanyaclement",
-  "updated_at": "2026-07-03T17:50:45.888Z",
+  "updated_at": "2026-07-03T17:54:56.201Z",
   "updated_by": "tanyaclement"
 }
